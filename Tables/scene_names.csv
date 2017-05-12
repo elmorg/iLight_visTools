@@ -1,0 +1,129 @@
+,Area,Scene,Name
+1,1,1,Scene 1
+2,1,2,Scene 2
+3,1,3,Scene 3
+4,1,4,Scene 4
+5,1,5,Scene 5
+6,1,6,Scene 6
+7,1,7,Scene 7
+8,1,8,Scene 8
+9,1,9,Scene 9
+1,2,1,Scene 1
+2,2,2,Scene 2
+3,2,3,Scene 3
+4,2,4,Scene 4
+5,2,5,Scene 5
+6,2,6,Scene 6
+7,2,7,Scene 7
+8,2,8,Scene 8
+9,2,9,Scene 9
+1,4,1,All On
+2,4,2,All @ 50
+3,4,3,
+4,4,4,Scene 4
+5,4,5,Scene 5
+6,4,6,Scene 6
+7,4,7,Scene 7
+8,4,8,Scene 8
+9,4,9,Scene 9
+1,5,1,Scene 1 Full
+2,5,2,Scene 2 90
+3,5,3,Scene 3 80
+4,5,4,Scene 4 70
+5,5,5,Scene 5 65
+6,5,6,Scene 6 60
+7,5,7,Scene 7 50
+8,5,8,Scene 8 40
+1,6,1,Scene 1
+2,6,2,Scene 2
+3,6,3,Scene 3
+4,6,4,Scene 4
+5,6,5,Scene 5
+6,6,6,Scene 6
+7,6,7,Scene 7
+8,6,8,Scene 8
+9,6,9,Scene 9
+1,7,1,Scene 1
+2,7,2,Scene 2
+3,7,3,Scene 3
+4,7,4,Scene 4
+5,7,5,Scene 5
+6,7,6,Scene 6
+7,7,7,Scene 7
+8,7,8,Scene 8
+9,7,9,Scene 9
+1,8,1,Scene 1
+2,8,2,Scene 2
+3,8,3,Scene 3
+4,8,4,Scene 4
+5,8,5,Scene 5
+6,8,6,Scene 6
+7,8,7,Scene 7
+8,8,8,Scene 8
+9,8,9,Scene 9
+1,9,1,1234 Flouri on Workers
+2,9,2,1 & 4 Flouri
+3,9,3,2 & 3 Flouri
+4,9,4,1 & 3 Flouri
+5,9,5,2 & 4 Flouri
+6,9,6,Spots 55/25
+7,9,7,Spots 65/35
+8,9,8,Spots 75/45
+9,9,9,Spots 85/55
+10,9,10,LED
+11,9,11,All Spots ON
+12,9,12,Flouri OFF
+13,9,13,Spots OFF
+14,9,14,LED OFF
+1,10,1,Sc1 BR 80
+2,10,2,Sc2 BR 70
+3,10,3,Sc3 BR 60
+4,10,4,Sc4 BR 50
+5,10,5,Sc5 BR 40
+6,10,6,Sc6 BR 807
+8,10,8,Scene 8
+9,10,9,Scene 9
+10,10,10,Scene 10 all 35
+1,12,1,All at 80
+2,12,2,All at 70
+3,12,3,All at 60
+4,12,4,All ex Stage @ 80
+5,12,5,All ex Stage @ 70
+6,12,6,All ex Stage @ 60
+7,12,7,Scene 7 100
+8,12,8,Scene 8 100& HQI
+9,12,9,Scene 9 LED only
+10,12,10,Scene 10 Off LED On
+11,12,11,EDEF16 HALF
+12,12,12,EDEF16 FULL
+13,12,13,All at 25
+14,12,14,All at 50
+15,12,15,All at 75
+16,12,16,All at 40
+17,12,17,HQI On
+18,12,18,HQI Off
+1,13,1,WDR 80
+2,13,2,WDR 70
+3,13,3,WDR 60
+4,13,4,WDR 50
+5,13,5,WDR 40
+6,13,6,WDR 30
+7,13,7,WDR 20
+1,14,1,EDR 80
+2,14,2,EDR 70
+3,14,3,EDR 60
+4,14,4,EDR 50
+5,14,5,EDR 40
+6,14,6,EDR 30
+7,14,7,EDR 20
+1,16,1,Scene 1
+2,16,2,Scene 2
+3,16,3,Scene 3
+4,16,4,Scene 4
+5,16,5,Scene 5
+6,16,6,Scene 6
+7,16,7,Scene 7
+8,16,8,Scene 8
+9,16,9,Scene 9
+1,20,1,Scene 1
+2,20,2,Scene 2 Off LED On
